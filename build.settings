@@ -1,0 +1,28 @@
+settings = 
+{
+	orientation =
+	{
+	    default = "landscapeRight",
+		supported = { "landscapeLeft", "landscapeRight", },
+	},
+	android =
+		{
+			--usesExpansionFile = true,
+			usesPermissions =
+			{
+				"android.permission.INTERNET",
+				"com.android.vending.CHECK_LICENSE",
+				"android.permission.WRITE_EXTERNAL_STORAGE"
+			},
+		},
+	iphone =
+	{
+		xcassets = "Images.xcassets",
+		plist =
+        {
+            UILaunchStoryboardName = "LaunchScreen",  -- Required!
+            UIStatusBarHidden = true,
+        },
+	},
+}
+

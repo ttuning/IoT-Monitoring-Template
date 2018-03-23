@@ -1,7 +1,7 @@
 # IoT-Monitoring-Template
 
 Base template for building an IoT Business application that monitors any IoT items. Consists of an Overview panel, Alerts page and a Statistics page. Built using Corona SDK. 
-
+bal alks lasd lk alskdkla 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.

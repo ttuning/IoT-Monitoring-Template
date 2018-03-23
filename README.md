@@ -10,6 +10,11 @@ It also shows how to use Google charts to format data tables into meaningful cha
 
 Simply download this repository and run it using the Corona SDK. (Start with main.lua)
 
+## Changing Themes
+
+All of the data for this application comes from a file called buildingdata.lua.  To change the look and feel of this applicaiton to fit your interests
+simply change the data to suit your needs.  Changing theme colors is also possible via the theme vaiables.  
+
 ## Built With
 
 * [Corona](https://coronalabs.com/) - The 2D Game Engine
